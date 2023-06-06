@@ -1,5 +1,7 @@
 <div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://www.eaglercraft.ru/mc/1.8.8/" data-iframely-url="//iframely.net/DefbNAQ"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
+<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://play-cs.com/en/servers" data-iframely-url="//iframely.net/DNWexS8?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
+
 <html>
 <head>
 <title>
