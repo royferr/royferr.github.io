@@ -1,3 +1,20 @@
+<p>Here are some <a href="https://www.eaglercraft.ru">HTML codes</a> to play with.</p>
+
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>HTML Hyperlinks</title>
+   </head>
+
+   <body>
+      <h1>nutter</h1>
+      <p>
+         minecraft lmao <a href="https://www.eaglercraft.ru">team</a> 
+         
+      </p>
+   </body>
+</html>
+
 <html>
 <head>
 <title>
