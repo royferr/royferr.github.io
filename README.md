@@ -1,19 +1,4 @@
-<p>Here are some <a href="https://www.eaglercraft.ru">HTML codes</a> to play with.</p>
-
-<!DOCTYPE html>
-<html>
-   <head>
-      <title>HTML Hyperlinks</title>
-   </head>
-
-   <body>
-      <h1>nutter</h1>
-      <p>
-         minecraft lmao <a href="https://www.eaglercraft.ru">team</a> 
-         
-      </p>
-   </body>
-</html>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://www.eaglercraft.ru/mc/1.8.8/" data-iframely-url="//iframely.net/DefbNAQ"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 <html>
 <head>
