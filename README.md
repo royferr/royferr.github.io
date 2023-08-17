@@ -1,4 +1,4 @@
-
+#new update is adding higher resolution btw#
 <iframe width="1366" height="768" src="https://www.play-cs.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="1366" height="768" src="https://www.google.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
