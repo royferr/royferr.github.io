@@ -1,11 +1,9 @@
 #new update is adding higher resolution btw#
-<iframe width="1366" height="768" src="https://www.play-cs.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.play-cs.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1366" height="768" src="https://www.google.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.eaglercraft.ru/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1366" height="768" src="https://www.eaglercraft.ru/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="1366" height="768" src="https://www.discord.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="800" height="600" src="https://www.spotify.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <html>
 <head>
@@ -22,7 +20,8 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 </head>
 <body>
 <h1>roy's small corner</h1>
-<p>hello, my name is roy and i like to code sometimes.</p>
+<p>hello, my name is roy and i like to code sometimes. 
+https://www.youtube.com/@j4vaplus </p>
 </body>
 </html>
 
