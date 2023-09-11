@@ -1,8 +1,8 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>roy's very kewl website</title>
-  <link rel="shortcut icon" href="download (78).jpeg">
+  <link rel="shortcut icon" href="thumbsup.jpeg">
   <style>
     html, body {
       height: 100%;
