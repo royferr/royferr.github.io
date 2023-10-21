@@ -1,11 +1,7 @@
 
 <iframe width="1000" height="600" src="https://www.play-cs.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="1000" height="600" src="https://www.google.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="1000" height="600" src="https://www.eaglercraft.ru/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="1000" height="600" src="https://www.photopea.com" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1000" height="600" src="https://www.eaglercraft.com/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <html>
 <head>
@@ -26,11 +22,9 @@ p {font-family:Georgia, serif;font-size:14px;font-style:normal;font-weight:norma
 </body>
 </html>
 
-<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://www.eaglercraft.ru/mc/1.8.8/" data-iframely-url="//iframely.net/DefbNAQ"></a></div></div><script async src="//iframely.net/embed.js"></script>
+<div class="iframely-embed"><div class="iframely-responsive" style="padding-bottom: 50%; padding-top: 120px;"><a href="https://www.eaglercraft.com/" data-iframely-url="//iframely.net/DefbNAQ"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 <div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://play-cs.com/en/servers" data-iframely-url="//iframely.net/DNWexS8?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
-
-<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://www.photopea.com" data-iframely-url="//iframely.net/TBaIgtb?card=small"></a></div></div><script async src="//iframely.net/embed.js"></script>
 
 
 
