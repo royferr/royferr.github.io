@@ -93,7 +93,16 @@ This is a simple HTML game where the player guesses a number, and the script che
 
 Keep in mind that this is a basic example. Building more complex games in HTML typically involves the use of game development libraries or frameworks like Phaser, Three.js (for 3D games), or even game engines like Unity for web-based games.
 
-
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>YouTube Profile Link</title>
+</head>
+<body>
+    <p>Visit the YouTube profile: <a href="https://www.youtube.com/@royfrr" target="_blank">royfrr's YouTube</a></p>
+</body>
+</html>
 
 
 
