@@ -18,6 +18,7 @@
             <li><a href="about.html">About</a></li>
             <li><a href="portfolio.html">Portfolio</a></li>
             <li><a href="contact.html">Contact</a></li>
+            <li><a href="rockpaperscissors.html">Rock Paper Scissors</a></li>
         </ul>
     </nav>
     
