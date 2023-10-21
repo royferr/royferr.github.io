@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Roy Ferr's Website</title>
-    <meta name="description" content="Welcome to Roy Ferr's personal website.">
+    <meta name="description" content="Welcome to royfrr's personal website.">
     <link rel="stylesheet" href="styles.css"> <!-- You can link to an external CSS file for styling -->
 </head>
 <body>
@@ -17,6 +17,7 @@
     
     <nav>
         <ul>
+            <li><a href="uoutube.html">My Youtube Channel (sub or i will send a nuke to your house ;)</a></li>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="portfolio.html">Portfolio</a></li>
