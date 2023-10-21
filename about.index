@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Me</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>About Me</h1>
+    </header>
+
+    <section class="about-content">
+        <h2>Introduction</h2>
+        <p>
+            I am [royfrr], a [schooler/coder] based in [nc]. I am passionate about [computers, math, and other nerdy shii].
+        </p>
+
+        <h2>Background</h2>
+        <p>
+            I have a background in [idk] and [being a school human]. I specialize in [coding or some shii].
+        </p>
+
+        <h2>Skills</h2>
+        <ul>
+            <li>coding</li>
+            <li>more coding</li>
+            <li>guess what? more fucking coding.</li>
+        </ul>
+    </section>
+
+    <footer>
+        &copy; 2023 royfrr
+    </footer>
+</body>
+</html>
