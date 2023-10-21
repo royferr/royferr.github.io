@@ -104,5 +104,51 @@ Keep in mind that this is a basic example. Building more complex games in HTML t
 </body>
 </html>
 
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Random Quote Generator</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+        }
+        #quote-container {
+            margin: 100px;
+            padding: 20px;
+            border: 2px solid #333;
+            border-radius: 10px;
+            background-color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>Random Quote Generator</h1>
+    <div id="quote-container">
+        <p id="quote">Click the button to get a random quote!</p>
+        <button id="generate-button">Generate Quote</button>
+    </div>
+    
+    <script>
+        const quotes = [
+            "The only way to do great work is to love what you do. - Steve Jobs",
+            "In the middle of every difficulty lies opportunity. - Albert Einstein",
+            "The future belongs to those who believe in the beauty of their dreams. - Eleanor Roosevelt",
+            "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston Churchill",
+            "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
+        ];
 
+        const quoteContainer = document.getElementById("quote-container");
+        const quoteText = document.getElementById("quote");
+        const generateButton = document.getElementById("generate-button");
+
+        generateButton.addEventListener("click", () => {
+            const randomIndex = Math.floor(Math.random() * quotes.length);
+            quoteText.textContent = quotes[randomIndex];
+        });
+    </script>
+</body>
+</html>
 
