@@ -17,7 +17,6 @@
     
     <nav>
         <ul>
-            <li><a href="youtube.html">My Youtube Channel (sub or i will send a nuke to your house ;)</a></li>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
             <li><a href="portfolio.html">Portfolio</a></li>
