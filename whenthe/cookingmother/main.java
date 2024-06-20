@@ -1,1 +1,0 @@
-<iframe src="https://www.retrogames.cc/embed/36803-cooking-mama-2-dinner-with-friends-usa.html" width="1366" height="766" frameborder="no" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" scrolling="no"></iframe>
